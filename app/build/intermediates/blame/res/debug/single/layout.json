@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\mbarde\\StudioProjects\\QuadWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\mbarde\\StudioProjects\\QuadWorld\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mbarde\\StudioProjects\\QuadWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_load_world.xml",
+        "source": "C:\\Users\\mbarde\\StudioProjects\\QuadWorld\\app\\src\\main\\res\\layout\\activity_load_world.xml"
+    },
+    {
+        "merged": "C:\\Users\\mbarde\\StudioProjects\\QuadWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_world.xml",
+        "source": "C:\\Users\\mbarde\\StudioProjects\\QuadWorld\\app\\src\\main\\res\\layout\\activity_new_world.xml"
+    },
+    {
+        "merged": "C:\\Users\\mbarde\\StudioProjects\\QuadWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu.xml",
+        "source": "C:\\Users\\mbarde\\StudioProjects\\QuadWorld\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    }
+]

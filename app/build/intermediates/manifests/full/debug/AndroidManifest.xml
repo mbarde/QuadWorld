@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="de.funpic.mistavista.quadworld"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        <activity
+            android:name="de.funpic.mistavista.quadworld.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="de.funpic.mistavista.quadworld.MenuActivity"
+            android:label="QuadWorld"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="de.funpic.mistavista.quadworld.NewWorldActivity"
+            android:label="@string/title_activity_new_world"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="de.funpic.mistavista.quadworld.LoadWorldActivity"
+            android:label="@string/title_activity_load_world"
+            android:screenOrientation="portrait" >
+        </activity>
+    </application>
+
+</manifest>

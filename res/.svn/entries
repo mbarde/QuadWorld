@@ -1,55 +1,0 @@
-10
-
-dir
-500
-https://svn.uni-koblenz.de/mbarde/HomeCode/QuadWorld/res
-https://svn.uni-koblenz.de/mbarde/HomeCode
-
-
-
-2013-02-14T12:23:07.589444Z
-325
-mbarde
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-c1239eba-8d01-11e1-8d88-57596a50b973
-
-values
-dir
-
-drawable-hdpi
-dir
-
-menu
-dir
-
-values-v11
-dir
-
-drawable-ldpi
-dir
-
-values-v14
-dir
-
-drawable-mdpi
-dir
-
-drawable-xhdpi
-dir
-
-layout
-dir
-
